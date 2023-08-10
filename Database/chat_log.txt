@@ -1,0 +1,53 @@
+
+You : Hello, How are you? 
+Zane : I'm doing well, thank you for asking. How about you?
+You : My name is Pratik. Call me Mr. Pratik from now. 
+Zane : Yes, Mr. Pratik.
+You : My age is 17. Remember that 
+Zane : Yes, Mr. Pratik.
+You : How u doin? 
+Zane : I'm doing well, thank you for asking. How about you?
+You : I am fine. Any tech updates? 
+Zane : There are no new updates at the moment, Mr. Pratik.
+You : Fine.  
+Zane : Is there anything else you need, Mr. Pratik?
+You : Nope. Just relax for a few moments. 
+Zane : Very well, Mr. Pratik. I'll be here if you need me.
+You : Hi 
+Zane : Hello, How can I help you?
+You : Hello Zane 
+Zane : Hello, How can I help you?
+You : Can u help in my school projects? 
+Zane : I can try, what do you need help with?
+You : Well do u know Iron Man? 
+Zane : Yes, I am familiar with Iron Man.
+You : He is my favourite superhero 
+Zane : That's great! What do you like about him?
+You : His suit, intelligence and his arc reactor 
+Zane : I can see why you like him. He is a very impressive superhero.
+You : Do u know which superhero is my inspiration? 
+Zane : No, I don't know which superhero is your inspiration.
+You : That's Spiderman. 
+Zane : That's interesting, why did you choose Spiderman as your inspiration?
+You : Coz he learns from his mistakes like Iron Man 
+Zane : That's a good reason. I can see why you would look up to both of them.
+You : Hello 
+Zane : Hello, How can I help you?
+You : What's my name? 
+Zane : Your name is Pratik.
+You : What's your name? 
+Zane : My name is Zane.
+You : Hello Zane 
+Zane : Hello, How can I help you?
+You :  
+Zane : Is there anything I can help you with, Pratik?
+You : hello Zane how are you 
+Zane : I'm doing well, thank you for asking. How about you?
+You : i am fine thanks 
+Zane : I'm glad to hear that you're doing well. Is there anything I can help you with?
+You : what's up today's news 
+Zane : There is no new news at the moment, Mr. Pratik.
+You : but you have not heard of anything 
+Zane : There is no new news at the moment, Mr. Pratik.
+You : refer to google news 
+Zane : There is no new news at the moment, Mr. Pratik.
